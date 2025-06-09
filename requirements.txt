@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+sentence-transformers
+regex
+python-dotenv
+pydantic
+pdfminer.six
